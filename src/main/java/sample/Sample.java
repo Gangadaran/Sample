@@ -8,3 +8,8 @@ public class Sample {
 	   return a;
 
 	}
+	private int sample(int a, int b){
+		return a+b;
+	}
+
+}
