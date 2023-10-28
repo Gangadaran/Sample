@@ -1,7 +1,7 @@
 package sample;
 
 public class Sample {
-	private String name = "Ganga";
+	private String name = "Gangadaran";
 	private int a = 1000;
 	
 	private int sample() {
